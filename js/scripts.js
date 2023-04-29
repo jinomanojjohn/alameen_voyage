@@ -249,7 +249,7 @@
 
     //     $.ajax({
     //         type: "POST",
-    //         url: "admin/includes/contact.php",
+    //         url: "travelincludes/contact.php",
     //         data: "name=" + name + "&phone=" + phone + "&email=" + email + "&select=" + select + "&terms=" + terms,
     //         success: function (text) {
     //             if (text == "success") {
@@ -307,7 +307,7 @@
 
         $.ajax({
             type: "POST",
-            url: "admin/includes/contact.php",
+            url: "travelincludes/contact.php",
             data: "name=" + name + "&email=" + email + "&message=" + message + "&mobile=" + mobile,
             success: function (text) {
                 if (text == "success") {

@@ -1,5 +1,5 @@
 <?php
-include 'admin/includes/connection.php';
+include 'travelincludes/connection.php';
 ?>
 
 <!DOCTYPE html>
@@ -590,7 +590,7 @@ include 'admin/includes/connection.php';
             const images = document.getElementById('carouselImages');
 
             $.ajax({
-                url: "admin/includes/getcgallery.php?id=" + id,
+                url: "travelincludes/getcgallery.php?id=" + id,
                 type: "GET",
                 success: function (data) {
                     var data = JSON.parse(data);

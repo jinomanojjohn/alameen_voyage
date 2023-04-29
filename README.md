@@ -1,6 +1,6 @@
 # AlAmeen Voyage
 
-This is a preview code for a website which is a travel consultancy company from the Department of BTTM at Al-Ameen College, Edathala,specializing in tourism & travel services
+This is a preview code for a website which is for a travel consultancy company from the Department of BTTM at Al-Ameen College, Edathala,specializing in tourism & travel services
 
 ## Tech Used
 
